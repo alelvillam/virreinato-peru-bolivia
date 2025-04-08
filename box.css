@@ -7,7 +7,7 @@ body {
     background-color: #F099B3;
   }
   header {
-    background-color: #F099E9;
+    background-color: #B6EB75;
     color: white;
     text-align: center;
     padding: 2rem 1rem;
@@ -21,8 +21,8 @@ nav {
     width: auto;
   }
 .enlace {
-    border: 5px solid #EB6691;
-    color: rgb(231, 243, 253);
+    border: 5px solid #EBD213;
+    color: blue(231, 243, 253);
     background-color: #F099E9;
     font-size: 20px;
     padding: 2px;
