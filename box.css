@@ -33,7 +33,7 @@ body {
     padding: 2rem;
   }
   .section h2 {
-    color: #007bff;
+    color: #C461EB;
     font-size: 2rem;
     margin-bottom: 1rem;
   }
@@ -43,16 +43,13 @@ body {
   }
   .cta-button {
     display: inline-block;
-    background-color: #007bff;
+    background-color: #EB4B7E;
     color: white;
     padding: 0.8rem 1.5rem;
     text-decoration: none;
     border-radius: 5px;
     font-weight: bold;
     transition: background-color 0.3s ease;
-  }
-  .cta-button:hover {
-    background-color: #0056b3;
   }
   footer {
     background-color: #333;
