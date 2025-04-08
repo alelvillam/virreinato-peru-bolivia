@@ -8,7 +8,7 @@ body {
   }
   header {
     background-color: #C1EB70;
-    color: white;
+    color: #139FEB;
     text-align: center;
     padding: 2rem 1rem;
     font-size: 4.5rem;
@@ -22,9 +22,9 @@ nav {
     width: auto;
   }
 .enlace {
-    border: 5px solid #139FEB;
+    border: 5px solid #EAC734;
     color: blue(231, 243, 253);
-    background-color: #EAC734;
+    background-color: #8BADF0;
     font-size: 20px;
     padding: 2px;
     margin: 10px;
