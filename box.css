@@ -7,7 +7,7 @@ body {
     background-color: #F099B3;
   }
   header {
-    background-color: #EB6691;
+    background-color: #F099E9;
     color: white;
     text-align: center;
     padding: 2rem 1rem;
@@ -26,7 +26,7 @@ body {
     padding: 0 1rem;
   }
   .section {
-    background-color: white;
+    background-color: #F099E9;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     margin-bottom: 2rem;
